@@ -98,5 +98,5 @@ Ce projet repose sur un dataset Kaggle représentant les ventes d'une grande dis
 ## 👤 Auteur
 
 **Amine BERRA**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ton-profil)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/amine-berra-22016b155/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrXNOBVwUS6ygd%2F14dXia4g%3D%3D))
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/ton-profil)
